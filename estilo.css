@@ -79,9 +79,8 @@ main .sobre-panchito{
     border-radius: 50px;
     width: 48%;
     height: 540px;
-    min-height: 540px;
-}
 
+}
 
 .sobre-panchito .contenido-textos{
     width: 48%;
@@ -170,7 +169,7 @@ footer{
         width: 90%;
     }
 
-    .imagen-panchito{
+    .imagen-pancho{
         width: 90%;
     }
 
@@ -196,12 +195,12 @@ footer{
 
     /* ABOUT US */
 
-    .imagen-panchito{
+    .imagen-pancho{
         margin-bottom: 60px;
         width: 99%;
     }
 
-    .sobre-nosotros .contenido-textos{
+    .sobre-panchito .contenido-textos{
         width: 95%;
     }
 
