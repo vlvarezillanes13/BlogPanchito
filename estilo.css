@@ -79,6 +79,7 @@ main .sobre-panchito{
     border-radius: 50px;
     width: 48%;
     height: 540px;
+    min-height: 540px;
 }
 
 
