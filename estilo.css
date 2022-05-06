@@ -81,6 +81,7 @@ main .sobre-panchito{
     width: 48%;
     height: 100%;
     min-height: 540px;
+    margin: auto;
 
 }
 
@@ -176,8 +177,8 @@ footer{
     }
 
     .imagen-pancho{
-        width: 65%;
-        margin-right: 0;
+        width: 80%;
+        margin: 0;
     }
 
 }
@@ -210,7 +211,7 @@ footer{
     .imagen-pancho{
         margin-bottom: 60px;
         width: 99%;
-        margin-right: 0;
+        margin: 0;
     }
 
     .sobre-panchito .contenido-textos{
