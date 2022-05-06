@@ -56,12 +56,12 @@ header .textos-header{
 
 .textos-header h1{
     font-size: 50px;
-    color: #fff;
+    color: #0b141a;
 }
 
 .textos-header h2{
     font-size: 30px;
-    color: #fff;
+    color:#060606;
     font-weight: 300;
 }
 
@@ -79,7 +79,8 @@ main .sobre-panchito{
     margin-right: 20px;
     border-radius: 50px;
     width: 48%;
-    height: 540px;
+    height: 100%;
+    min-height: 540px;
 
 }
 
@@ -175,7 +176,7 @@ footer{
     }
 
     .imagen-pancho{
-        width: 90%;
+        width: 65%;
         margin-right: 0;
     }
 
@@ -208,7 +209,7 @@ footer{
 
     .imagen-pancho{
         margin-bottom: 60px;
-        width: 99%;
+        width: 65%;
         margin-right: 0;
     }
 
