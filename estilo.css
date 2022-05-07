@@ -20,7 +20,8 @@ html{
     color: #642a73;
     font-size: 30px;
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
 }
 
 /* Header */
@@ -174,7 +175,14 @@ main .sobre-panchito{
     transform: scale(1);
 }
 
+.video-port{
+    text-align: center;
+}
 
+.video-port > video{
+    width: 100%;
+    height: 500px;
+}
 
 /* footer */
 
@@ -286,6 +294,10 @@ footer{
         width: 95%;
     }
 
+    .video-port > video{
+        height: 300px;
+    }
+
     /* Footer */
 
     .contenedor-footer{
@@ -304,7 +316,7 @@ footer{
 
     .content-foo p{
         color: #ccc;
-        border-bottom: 1px solid #f2f2f2;
+        border-bottom: 1px solid #af20d3;
         padding-bottom: 20px;
     }
 
