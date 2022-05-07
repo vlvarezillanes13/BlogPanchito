@@ -57,6 +57,7 @@ header .textos-header{
     align-items: center;
     justify-content: center;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .textos-header h1{
